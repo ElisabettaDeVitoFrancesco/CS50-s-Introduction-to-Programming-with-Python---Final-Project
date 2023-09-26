@@ -1,4 +1,4 @@
-# CS50-s-Introduction-to-Programmign-with-Python---Final-Project
+# CS50-s-Introduction-to-Programming-with-Python---Final-Project
 # The dog is hungry
 ## Video Demo:  <https://youtu.be/99l4-jTTNik>
 ## Description
